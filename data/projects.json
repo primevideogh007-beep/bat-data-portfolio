@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Predictive Sales Forecasting",
+    "description": "Regression modeling to forecast revenue trends and support planning decisions."
+  },
+  {
+    "title": "Customer Churn Prediction",
+    "description": "Classification pipeline identifying at-risk customers using behavioral features."
+  },
+  {
+    "title": "Sentiment Analysis System",
+    "description": "NLP workflow using TF\u2011IDF and supervised learning for opinion mining."
+  },
+  {
+    "title": "RAG Knowledge Assistant",
+    "description": "Built retrieval\u2011augmented pipeline with embeddings + semantic search."
+  }
+]
